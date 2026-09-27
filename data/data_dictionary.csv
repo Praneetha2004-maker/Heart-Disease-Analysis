@@ -1,0 +1,15 @@
+column,description,values
+age,Age in years,integer
+sex,Sex,0=Female;1=Male
+cp,Chest pain type,1=Typical angina;2=Atypical angina;3=Non-anginal pain;4=Asymptomatic
+trestbps,Resting blood pressure,mm Hg
+chol,Serum cholesterol,mg/dl
+fbs,Fasting blood sugar >120 mg/dl,0=No;1=Yes
+restecg,Resting electrocardiographic result,0-2
+thalach,Maximum heart rate achieved,bpm
+exang,Exercise-induced angina,0=No;1=Yes
+oldpeak,ST depression induced by exercise,continuous
+slope,Slope of peak exercise ST segment,1=Upsloping;2=Flat;3=Downsloping
+ca,Number of major vessels,0-3
+thal,Thalassemia category,3=Normal;6=Fixed defect;7=Reversible defect
+target,Heart disease status,0=No disease;1=Disease present

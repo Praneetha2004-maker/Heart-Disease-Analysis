@@ -1,0 +1,3 @@
+Copy your existing 303-row heart_disease_clean.csv into this folder.
+Expected filename: heart_disease_clean.csv
+Do not use synthetic data for the final project.
